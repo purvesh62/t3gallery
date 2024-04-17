@@ -2,8 +2,8 @@
 
 ## Todo
 
-- [ ] Make it deploy
-- [ ] Basic UI with mock data
+- [x] Make it deploy
+- [x] Basic UI with mock data
 - [ ] Setup a database
 - [ ] Attach database to UI
 - [ ] Add image upload
